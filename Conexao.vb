@@ -1,8 +1,8 @@
 ﻿Imports MySql.Data.MySqlClient
 Module Conexao
 
-    '   Public con As New MySqlConnection("server=localhost; userid=root; password=3f49215c; database=portarias; port=3306;")
-    Public con As New MySqlConnection("server=localhost; userid=root; password=3f49215c; database=portarias; port=3306;")
+    ' 
+    Public con As New MySqlConnection("server=localhost; userid=root; password=; database=portarias; port=3306;")
 
 
     Public nomeUsuario
