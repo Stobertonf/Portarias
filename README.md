@@ -23,6 +23,6 @@ desenvolver uma aplicação de controle de acesso.
 
 ## Prazo
 
-🛠 Esta projeto foi por volta do ano de 2017.  No entanto, por conta de diversos fatores infelizmente eu não consegui concluir o mesmo ainda. 
+🛠 Esta projeto foi iniciado por volta do ano de 2018. Porém, por conta de diversos fatores infelizmente eu não consegui concluir o mesmo ainda. 
 
 No entanto, espero em breve voltar conseguir concluir o curso.
