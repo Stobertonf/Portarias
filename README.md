@@ -14,7 +14,7 @@
 
 ## Foco
 
-😊 O curso é focado em desenvolver uma aplicação na plataforma Windows Form, utilizando a linguagem VB.Net e o Banco de dados MySQl.
+😊 O curso é focado em desenvolver uma aplicação na plataforma Windows Form, utilizando a linguagem VB.Net e o Banco de dados MySQL.
 
 ## Objetivo
 
