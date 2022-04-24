@@ -25,4 +25,4 @@ desenvolver uma aplicação de controle de acesso.
 
 🛠 Este projeto foi iniciado por volta do ano de 2018. Porém, por conta de diversos fatores infelizmente eu não consegui concluir o mesmo ainda. 
 
-No entanto, espero em breve voltar conseguir concluir o curso.
+No entanto, espero em breve voltar as minhas anteções para o mesmo para concluir o curso.
