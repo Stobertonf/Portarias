@@ -10,7 +10,7 @@
 
 ## Escopo
 
-📚 Neste eu estava aprendendo a criar um sistema de Controle de acesso (Portaria)
+📚 Neste eu estava aprendendo a criar um sistema de Controle de acesso (Portaria). No entanto, eu fiz alguns modificações / implementações para adquirir novos conhecimentos, desenvolvi novas funcionalidades com o objetivo de melhorar meu nível técnico com o Vb.Net.
 
 ## Foco
 
